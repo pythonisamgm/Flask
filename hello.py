@@ -41,4 +41,4 @@ if __name__ == "__main__":
 #def greet(name):
 #    return f"Hello, {name}, you are {number} years old!"
 
-#---------------------
+#--------------------- ADVANCED PYTHON DECORATOR FUNCTIONS ------------------
